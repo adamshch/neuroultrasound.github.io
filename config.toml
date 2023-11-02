@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'NeuroDoppler'
+theme = 'neurodoppler'
+
+[params]
+    description = "Project description"
+		footer = ""
+
+[[menu.main]]
+	name = "Home"
+	weight = 100
+	identifier = "home"
+	url = "/"

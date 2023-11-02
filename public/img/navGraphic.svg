@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <a xmlns="http://www.w3.org/2000/svg" id="anchor" xlink:href="1" xmlns:xlink="http://www.w3.org/1999/xlink" target="_top">
+    <rect class="cls-1" x="24.74" y="12.32" width="165.26" height="121.05"/>
+    </a>
+  </g>
+  <g id="Layer_7" data-name="Layer 7">
+    <a xmlns="http://www.w3.org/2000/svg" id="anchor" xlink:href="7" xmlns:xlink="http://www.w3.org/1999/xlink" target="_top">
+    <rect class="cls-1" x="718.48" y="12.32" width="165.26" height="121.05"/>
+    </a>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <a xmlns="http://www.w3.org/2000/svg" id="anchor" xlink:href="2" xmlns:xlink="http://www.w3.org/1999/xlink" target="_top">
+    <rect class="cls-1" x="204.74" y="12.32" width="82.63" height="121.05"/>
+    </a>
+  </g>
+  <g id="Layer_8" data-name="Layer 8">
+    <a xmlns="http://www.w3.org/2000/svg" id="anchor" xlink:href="8" xmlns:xlink="http://www.w3.org/1999/xlink" target="_top">
+    <rect class="cls-1" x="899.53" y="12.32" width="82.63" height="121.05"/>
+    </a>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <a xmlns="http://www.w3.org/2000/svg" id="anchor" xlink:href="5" xmlns:xlink="http://www.w3.org/1999/xlink" target="_top">
+    <rect class="cls-1" x="437.89" y="12.32" width="82.63" height="121.05"/>
+    </a>
+  </g>
+  <g id="Layer_6" data-name="Layer 6">
+    <a xmlns="http://www.w3.org/2000/svg" id="anchor" xlink:href="6" xmlns:xlink="http://www.w3.org/1999/xlink" target="_top">
+    <rect class="cls-1" x="538.91" y="50.74" width="161.19" height="44.21"/>
+    </a>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <a xmlns="http://www.w3.org/2000/svg" id="anchor" xlink:href="3" xmlns:xlink="http://www.w3.org/1999/xlink" target="_top">
+    <rect class="cls-1" x="302.11" y="12.58" width="121.05" height="82.63"/>
+    </a>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <a xmlns="http://www.w3.org/2000/svg" id="anchor" xlink:href="4" xmlns:xlink="http://www.w3.org/1999/xlink" target="_top">
+    <rect class="cls-1" x="302.11" y="107.34" width="121.05" height="26.03"/>
+    </a>
+  </g>
+</svg>

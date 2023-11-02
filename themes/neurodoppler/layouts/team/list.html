@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main>
+{{ .Content }}
+
+  {{ range (where .Data.Pages "Section" "!=" "") }}
+  <div class="team-member">
+    <div class="team-flex">
+      <div class="team-headshot">
+        <img src="/{{ .File.Dir }}{{ .Params.headshot }}">
+      </div>
+      <div class="team-content">
+        <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    </div>
+  </div>
+  {{ end }}
+</main>
+{{ end }}

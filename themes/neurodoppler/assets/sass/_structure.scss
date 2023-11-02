@@ -1,0 +1,61 @@
+.banner-block {
+	min-height: 600px;
+	height: 150vw;
+	max-height: 700px;
+	width: 100%;
+	overflow: hidden;
+	line-height: 0;
+	display: block;
+	margin-bottom: -30rem;
+}
+
+.container {
+	display: block;
+	margin: 0 auto;
+	background-color: white;
+	min-height: 300px;
+	width: 80%;
+	max-width: 1199px;
+}
+
+main {
+  width: 80%;
+  //max-width: 800px;
+  margin: 2rem auto;
+}
+
+//team
+.team-flex {
+	display: flex;
+	padding: 0;
+	justify-content: space-between;
+	margin-bottom: 3rem;
+}
+.team-headshot {
+	img {
+		width: 100%;
+		margin-bottom: 2rem;
+	}
+	width: 29%;
+	flex: 0 0 auto;
+}
+.team-content {
+	width: 69%;
+	flex: 0 0 auto;
+}
+
+@media screen and (max-width:799px) {
+	.team-flex {
+		display: block;
+	}
+	.team-headshot {
+		width: 100%;
+	}
+	.team-content {
+		width: 100%;
+	}
+}
+
+footer {
+	padding: 3rem;
+}
