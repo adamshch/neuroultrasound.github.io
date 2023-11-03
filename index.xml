@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeuroDoppler</title>
+    <link>http://example.org/</link>
+    <description>Recent content on NeuroDoppler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jul 2022 15:33:12 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adam S. Charles</title>
+      <link>http://example.org/team/adamcharles/</link>
+      <pubDate>Tue, 16 Aug 2022 12:31:45 -0400</pubDate>
+      
+      <guid>http://example.org/team/adamcharles/</guid>
+      <description>Johns Hopkins University</description>
+    </item>
+    
+    <item>
+      <title>Ahmed El Hady</title>
+      <link>http://example.org/team/ahmedelhady/</link>
+      <pubDate>Tue, 16 Aug 2022 12:30:47 -0400</pubDate>
+      
+      <guid>http://example.org/team/ahmedelhady/</guid>
+      <description>Max Planck Institute of Animal Behavior / University of Konstanz</description>
+    </item>
+    
+    <item>
+      <title>8</title>
+      <link>http://example.org/methods/8/</link>
+      <pubDate>Tue, 16 Aug 2022 11:06:16 -0400</pubDate>
+      
+      <guid>http://example.org/methods/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>http://example.org/methods/7/</link>
+      <pubDate>Tue, 16 Aug 2022 11:06:12 -0400</pubDate>
+      
+      <guid>http://example.org/methods/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>http://example.org/methods/6/</link>
+      <pubDate>Tue, 16 Aug 2022 11:06:08 -0400</pubDate>
+      
+      <guid>http://example.org/methods/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>http://example.org/methods/5/</link>
+      <pubDate>Tue, 16 Aug 2022 11:06:04 -0400</pubDate>
+      
+      <guid>http://example.org/methods/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>http://example.org/methods/4/</link>
+      <pubDate>Tue, 16 Aug 2022 11:06:00 -0400</pubDate>
+      
+      <guid>http://example.org/methods/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>http://example.org/methods/3/</link>
+      <pubDate>Tue, 16 Aug 2022 11:05:56 -0400</pubDate>
+      
+      <guid>http://example.org/methods/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>http://example.org/methods/2/</link>
+      <pubDate>Tue, 16 Aug 2022 11:05:51 -0400</pubDate>
+      
+      <guid>http://example.org/methods/2/</guid>
+      <description>Page 2</description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>http://example.org/methods/1/</link>
+      <pubDate>Tue, 16 Aug 2022 11:05:26 -0400</pubDate>
+      
+      <guid>http://example.org/methods/1/</guid>
+      <description>Page 1</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>http://example.org/papers/</link>
+      <pubDate>Wed, 06 Jul 2022 10:15:38 +0200</pubDate>
+      
+      <guid>http://example.org/papers/</guid>
+      <description>papers</description>
+    </item>
+    
+  </channel>
+</rss>
